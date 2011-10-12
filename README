@@ -1,0 +1,41 @@
+Seneca College        Oct 12, 2011
+Applied Arts & Technology      Semester 03/11
+SCHOOL OF COMPUTER STUDIES
+
+ELC500– DPS914                      Due date: Nov 02, 2011
+
+Assignment 1
+
+The first assignment gives you the opportunity to develop OSGi a service provider and a 
+service consumer.
+
+1. The Service Provider implements a hotel booking system and defines services 
+	such as: check-in/out, room availability for a small hotel with five rooms.
+2. The Service Consumer must have a well-defined GUI, so that the user could 
+	easily use the services from the provider.
+
+Part 1 (35 marks) – The service provider
+Part 2 (65 marks) – The service consumer
+
+The assignment should be presented as a web page that contains:
+
+TEAM Members: Student Names, Emails
+1. ReadMe.txt link to files that explains your solution.
+2. Source files link including: XML files, Java files and other 
+	resourses that you developed for your assignment.
+3. Run it: a description on how to run in Eclipse the OSGi app.
+
+Your assignment will be delivered as an email. The email must be sent on the due date to:
+jordan.anastasiade@senecac.on.ca
+
+ The subject line must be
+	<YourLastName-TEAM Number>_ECL: Assignment1
+	(one of the team member will send the email)
+ Your email content must be:
+	http://ecl500_113axx:ppp@zenit.senecac.on.ca/~ecl500_113axx
+		where xx is your account number and ppp is your password
+
+This solution will be evaluated based upon:
+ Correctness of the solution
+	A very important consideration must be given to the GUI design: 
+	look & feel of the complete and correct functionality.
